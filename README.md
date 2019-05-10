@@ -52,9 +52,9 @@
 
 3.	Configure the SMS Connector by using browser to connect the VM private IP
 
-4.	Replace step 1. to 2. by another method.
-    	Download the VHD file to run a Connector VM on Azure.
-   	Follow the guide to configure the VM Connector.
+4.	Replace step 1. to 2. by another method.  
+    	Download the VHD file to run a Connector VM on Azure.  
+   	Follow the guide to configure the VM Connector.  
 
 ## Testing Note
 
@@ -111,5 +111,5 @@
 	<img src="/SMS_01.png" width="800" height="800%">
 </p>
 
-5.	The default size of Azure VM disks is too large.
+5.	The default size of Azure VM disks is too large.  
     	This test will spend too much cost, so I interrupted the test. 
