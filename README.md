@@ -1,4 +1,4 @@
-# AWS SMS 
+# AWS SMS Testing Note 
 
 ## Steps 
 
@@ -90,7 +90,7 @@
 * Checking the copy process
 
 <p align="center">
-	<img src="/SMS_01.jpg" width="1000" height="1000%">
+	<img src="/SMS_01.png" width="800" height="800%">
 </p>
 
 5.	The default size of Azure VM disks is too large.
