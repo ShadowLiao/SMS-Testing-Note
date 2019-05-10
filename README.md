@@ -4,6 +4,7 @@
 
 1.	Create an IAM role for AWS SMS
 2.	Setup the SMS Connector on VMware / Hyper-V / Azure
+3.	Operate it on AWS web console
 
 ### VMware Connector
 
